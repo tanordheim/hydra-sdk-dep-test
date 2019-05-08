@@ -1,0 +1,4 @@
+github.com/go-chi/chi v4.0.2+incompatible h1:maB6vn6FqCxrpz4FqWdh4+lwpyZIQS7YEAUcHlgXVRs=
+github.com/go-chi/chi v4.0.2+incompatible/go.mod h1:eB3wogJHnLi3x/kFX2A+IbTBlXxmMeXJVKy9tTv1XzQ=
+github.com/tanordheim/hydra-sdk-mod-test/sdk/go/hydra v0.0.1 h1:h45IAM0zPsElxzhhJQzH0fIScBfhan2pp26/pxUEWus=
+github.com/tanordheim/hydra-sdk-mod-test/sdk/go/hydra v0.0.1/go.mod h1:xDZiaJRUVJJ6C31X3sPVgKk7bmVkdiFsJBykJ1iWM1Y=
